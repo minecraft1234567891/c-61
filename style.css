@@ -1,0 +1,15 @@
+body{
+text-align: center;
+}
+#app{
+background-color: seagreen;
+}
+#game{
+background-color: skyblue;
+}
+.line{
+height: 6px;
+background-color: pink;
+width: 70px;
+margin: 8px auto;
+}
